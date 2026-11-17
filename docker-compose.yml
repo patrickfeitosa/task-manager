@@ -1,0 +1,14 @@
+# One service on purpose: tasks live in the memory of this single process (no database).
+# Do not scale it to several replicas, each would have its own separate task list.
+#   docker compose up --build
+#   SEED_TASKS=true docker compose up --build   # start with 25 sample tasks
+name: "task-manager"
+
+services:
+  app:
+    build: .
+    environment:
+      SEED_TASKS: ${SEED_TASKS:-false}
+    ports:
+      - "3000:3000"
+    restart: unless-stopped

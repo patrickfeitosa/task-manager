@@ -1,0 +1,14 @@
+node_modules
+.next
+.git
+.husky
+.claude
+.github
+docs
+coverage
+storybook-static
+test-results
+playwright-report
+.env*.local
+Dockerfile
+docker-compose.yml
