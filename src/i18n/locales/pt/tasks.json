@@ -1,0 +1,58 @@
+{
+  "delete": {
+    "action": "Excluir",
+    "cancel": "Cancelar",
+    "confirm": "Excluir tarefa",
+    "description": "Esta ação não pode ser desfeita.",
+    "restored": "Tarefa restaurada.",
+    "success": "Tarefa excluída.",
+    "title": "Excluir esta tarefa?",
+    "undo": "Desfazer"
+  },
+  "empty": {
+    "description": "Crie sua primeira tarefa para começar.",
+    "title": "Nenhuma tarefa ainda"
+  },
+  "endOfList": "Você chegou ao fim da lista.",
+  "errors": {
+    "invalid": "Os dados enviados são inválidos. Verifique os campos e tente novamente.",
+    "notFound": "Esta tarefa não existe mais.",
+    "unknown": "Algo deu errado. Tente novamente."
+  },
+  "form": {
+    "back": "Voltar às tarefas",
+    "cancel": "Cancelar",
+    "createTitle": "Nova tarefa",
+    "descriptionLabel": "Descrição (opcional)",
+    "descriptionPlaceholder": "Adicione alguns detalhes",
+    "editTitle": "Editar tarefa",
+    "saving": "Salvando...",
+    "submitCreate": "Criar tarefa",
+    "submitUpdate": "Salvar alterações",
+    "titleLabel": "Título",
+    "titlePlaceholder": "O que precisa ser feito?"
+  },
+  "list": {
+    "clearSearch": "Limpar busca",
+    "created": "Criada em {{date}} (UTC)",
+    "edit": "Editar",
+    "loadingMore": "Carregando mais tarefas...",
+    "loadMoreError": "Não foi possível carregar mais tarefas.",
+    "new": "Nova tarefa",
+    "noResults": "Nenhuma tarefa encontrada para “{{q}}”",
+    "noResultsDescription": "Tente outro termo de busca.",
+    "retry": "Tentar novamente",
+    "search": "Buscar tarefas",
+    "searchDisabled": "Crie uma tarefa para habilitar a busca",
+    "title": "Tarefas"
+  },
+  "toast": {
+    "created": "Tarefa criada.",
+    "updated": "Tarefa atualizada."
+  },
+  "validation": {
+    "descriptionTooLong": "A descrição é muito longa.",
+    "titleRequired": "O título é obrigatório.",
+    "titleTooLong": "O título é muito longo."
+  }
+}

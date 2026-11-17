@@ -1,0 +1,24 @@
+{
+  "app": {
+    "name": "Gerenciador de Tarefas",
+    "newTask": "Nova tarefa"
+  },
+  "error": {
+    "description": "Ocorreu um erro inesperado.",
+    "retry": "Tentar novamente",
+    "title": "Algo deu errado"
+  },
+  "language": {
+    "en": "Inglês",
+    "pt": "Português",
+    "switch": "Mudar idioma para {{language}}"
+  },
+  "notFound": {
+    "back": "Voltar às tarefas",
+    "description": "A página que você procura não existe.",
+    "title": "Página não encontrada"
+  },
+  "theme": {
+    "toggle": "Alternar tema"
+  }
+}

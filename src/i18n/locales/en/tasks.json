@@ -1,0 +1,58 @@
+{
+  "delete": {
+    "action": "Delete",
+    "cancel": "Cancel",
+    "confirm": "Delete task",
+    "description": "This action cannot be undone.",
+    "restored": "Task restored.",
+    "success": "Task deleted.",
+    "title": "Delete this task?",
+    "undo": "Undo"
+  },
+  "empty": {
+    "description": "Create your first task to get started.",
+    "title": "No tasks yet"
+  },
+  "endOfList": "You reached the end of the list.",
+  "errors": {
+    "invalid": "The data sent is invalid. Check the fields and try again.",
+    "notFound": "This task no longer exists.",
+    "unknown": "Something went wrong. Please try again."
+  },
+  "form": {
+    "back": "Back to tasks",
+    "cancel": "Cancel",
+    "createTitle": "New task",
+    "descriptionLabel": "Description (optional)",
+    "descriptionPlaceholder": "Add some details",
+    "editTitle": "Edit task",
+    "saving": "Saving...",
+    "submitCreate": "Create task",
+    "submitUpdate": "Save changes",
+    "titleLabel": "Title",
+    "titlePlaceholder": "What needs to be done?"
+  },
+  "list": {
+    "clearSearch": "Clear search",
+    "created": "Created {{date}} (UTC)",
+    "edit": "Edit",
+    "loadingMore": "Loading more tasks...",
+    "loadMoreError": "Could not load more tasks.",
+    "new": "New task",
+    "noResults": "No tasks match “{{q}}”",
+    "noResultsDescription": "Try a different search term.",
+    "retry": "Try again",
+    "search": "Search tasks",
+    "searchDisabled": "Create a task to enable search",
+    "title": "Tasks"
+  },
+  "toast": {
+    "created": "Task created.",
+    "updated": "Task updated."
+  },
+  "validation": {
+    "descriptionTooLong": "The description is too long.",
+    "titleRequired": "The title is required.",
+    "titleTooLong": "The title is too long."
+  }
+}
